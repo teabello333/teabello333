@@ -14,6 +14,7 @@ Tech Skills:
    Tools: Jupyter Notebooks, Google Colab, Git, Github
 
 Projects: 
+
    Gravebound - Starting in August of 2025, Gravebound is a game I designed and presented to both my team and Irving and other heads of Ludenwright. Both liked the idea and pitch so we are moving forth with developing it in Unity. This game is a 4 person coop based on Appalachian folk tales of Wendigos. We are currently working on implementing the first map which is a hedge maze filled with monsters and puzzles. A full description and Idea board is linked below. I will also be programing this game alongside of designing it. More information can be found on my LinkedIn under the Gravbound description.
 
    Rebreather - During the Summer of 2025 and to the present, I have been helping debug and code for my team Oceanus under both Ludenwright and P1 Games this game named Rebreather. This game is a exploring/collection game in which you are a diver that collects trash and examines and collects fish on various different maps. There are enemies in the water that you have to avoid such as sharks, jellyfish, and sea urchins. The player also has an oxygen tank and has to come up for water every so often as to not drown. This game focuses on environmentalism and bringing awareness to environmental health. We are currently working on getting this game monetized.
