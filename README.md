@@ -14,6 +14,8 @@ Tech Skills:
    Tools: Jupyter Notebooks, Google Colab, Git, Github
 
 Projects: 
+  
+   Talking Cents - Talking Cents is an interactive AI-powered budgeting assistant that helps users make better financial decisions through natural conversation. Built with React and Node.js/Express, this app allows the user to either speak or type their questions and receive thoughtful spoken responses from an animated avatar. It integrates speech-to-text and text-to-speech technologies to create a seamless voice interaction experience, while the AI backend analyzes user input to provide personalized financial reasoning. This project combines frontend UX design and AI-driven interactivity, showcasing skills in React hooks, REST APIs, and real-time multimedia processing.
 
    Gravebound - Starting in August of 2025, Gravebound is a game I designed and presented to both my team and Irving and other heads of Ludenwright. Both liked the idea and pitch so we are moving forth with developing it in Unity. This game is a 4 person coop based on Appalachian folk tales of Wendigos. We are currently working on implementing the first map which is a hedge maze filled with monsters and puzzles. A full description and Idea board is linked below. I will also be programing this game alongside of designing it. More information can be found on my LinkedIn under the Gravbound description.
 
