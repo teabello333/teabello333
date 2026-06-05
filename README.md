@@ -14,6 +14,8 @@ Tech Skills:
    Tools: Jupyter Notebooks, Google Colab, Git, Github
 
 Projects: 
+
+   Calendar Creation - Developed a full-stack Google Calendar clone using React, Next.js, and MongoDB as part of a collaborative software engineering project. Contributed core event management functionality, including creating and deleting events, designing the event creation interface, and integrating frontend components with backend database operations. Implemented user-specific data access controls to ensure calendar privacy and participated in final system integration, testing, and debugging to deliver a fully functional scheduling application.
   
    Talking Cents - Talking Cents is an interactive AI-powered budgeting assistant that helps users make better financial decisions through natural conversation. Built with React and Node.js/Express, this app allows the user to either speak or type their questions and receive thoughtful spoken responses from an animated avatar. It integrates speech-to-text and text-to-speech technologies to create a seamless voice interaction experience, while the AI backend analyzes user input to provide personalized financial reasoning. This project combines frontend UX design and AI-driven interactivity, showcasing skills in React hooks, REST APIs, and real-time multimedia processing.
 
