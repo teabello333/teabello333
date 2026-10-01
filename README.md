@@ -1,17 +1,4 @@
-Hello my name is Tonito Abello!
-
-As a senior at Boston University majoring in Computer Science, I am enthusiastic about the synergy between technology, creativity, and problem solving. My academic and personal projects have allowed me to explore machine learning models and working with data sets, as well as game designing and game programing.
-
-I have cultivated an interest in machine learning because of its ability to transform gameplay, but also its broader applications to technology. Not only am I excited by the way ML can enhance game development, but I see machine learning as a powerful tool for analyzing complex data, uncovering patterns, and building systems that can adapt to real-world challenges.
-
-By combining my background in computer science with my enthusiasm for creative design, I aim to make projects that push the boundaries of entertainment and technology. Whether its developing immersive virtual worlds, or using ML to build a smarter system, I am eager to continue growing as a developer and programmer to bridge the gap between creativity and engineering.
-
-Tech Skills: 
-   Coding Languages - Blueprint, Java, Python, C++, C, Assembly, OCaml
-   Unreal Engine 5 and Unity 
-   Data Science: Pandas, NumPy
-   Web Dev: HTML, CSS, JavaScript
-   Tools: Jupyter Notebooks, Google Colab, Git, Github
+Hello my name is Katarina Abello!
 
 Projects: 
 
