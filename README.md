@@ -1,5 +1,7 @@
 Hello my name is Katarina Abello!
 
+Boston University Graduate | Computer Science | GPA: 3.58/4.0
+
 Projects: 
 
    Calendar Creation - Developed a full-stack Google Calendar clone using React, Next.js, and MongoDB as part of a collaborative software engineering project. Contributed core event management functionality, including creating and deleting events, designing the event creation interface, and integrating frontend components with backend database operations. Implemented user-specific data access controls to ensure calendar privacy and participated in final system integration, testing, and debugging to deliver a fully functional scheduling application.
